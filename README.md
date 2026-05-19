@@ -1,5 +1,9 @@
 # internship-hunter
 
+[![CI](https://github.com/nacefmoula/internship-hunter/actions/workflows/ci.yml/badge.svg)](https://github.com/nacefmoula/internship-hunter/actions/workflows/ci.yml)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 A semi-automated pipeline that **discovers, deduplicates, filters, ranks, and
 drafts applications** for summer-2026 DevOps / Cloud / SRE internships
 (Tunisia on-site, or remote) — from eight job sources into one reviewed
