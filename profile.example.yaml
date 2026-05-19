@@ -1,0 +1,62 @@
+# Copy to profile.yaml and edit. profile.yaml is your working config.
+name: Your Name
+email: you@example.com
+education: 4th year Cloud & DevOps Engineering, Esprit, Tunisia
+
+# +3 if found in a listing title, +1 if in the description.
+keywords_strong:
+  - kubernetes
+  - docker
+  - terraform
+  - ansible
+  - aws
+  - gcp
+  - azure
+  - ci/cd
+  - jenkins
+  - gitlab ci
+  - github actions
+  - prometheus
+  - grafana
+  - linux
+  - bash
+
+# +1 wherever found.
+keywords_nice:
+  - python
+  - go
+  - helm
+  - argocd
+  - istio
+  - vault
+  - openshift
+  - sre
+  - observability
+
+roles_target:
+  - devops intern
+  - sre intern
+  - cloud intern
+  - platform engineering intern
+  - stage devops
+  - stage cloud
+  - stagiaire devops
+
+hard_filters:
+  # Drop anything that is not explicitly an internship/stage. Set false to
+  # also see regular jobs.
+  require_internship: true
+  internship_terms: [intern, internship, stage, stagiaire, trainee, summer 2026]
+  exclude_terms: [senior, lead, staff, principal, "5+ years", "10+ years"]
+  location_rules:
+    - tunisia_ok: true
+    - remote_ok: true
+    - onsite_abroad: false   # set true to also see on-site-abroad roles
+  max_age_days: 90
+
+# A single path, or one CV per language. French sources (keejob,
+# emploitunisie, tanitjobs) use the `fr` CV + a French cover letter;
+# everything else uses `en`. Your CV PDFs are gitignored.
+cv_path:
+  en: ./my_cv_en.pdf
+  fr: ./my_cv_fr.pdf

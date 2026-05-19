@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+data/jobs.db
+data/*.db
+outputs/
+# Personal CVs — never commit (they contain phone/email).
+*.pdf
+cv.pdf
+.env

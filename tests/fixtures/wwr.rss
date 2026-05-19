@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>We Work Remotely: Remote DevOps And Sysadmin Jobs</title>
+    <link>https://weworkremotely.com/categories/remote-devops-jobs</link>
+    <description>The latest remote DevOps and Sysadmin jobs</description>
+    <language>en-us</language>
+    <item>
+      <title>Acme Cloud: Junior DevOps Engineer (Internship)</title>
+      <region>Anywhere in the World</region>
+      <category>DevOps and Sysadmin</category>
+      <type>Contract</type>
+      <description><![CDATA[<p>We are hiring a <strong>DevOps intern</strong> to work with Kubernetes, Terraform and CI/CD pipelines on AWS.</p><p>Bash and Linux required.</p>]]></description>
+      <link>https://weworkremotely.com/remote-jobs/acme-cloud-junior-devops-engineer-internship</link>
+      <guid>https://weworkremotely.com/remote-jobs/acme-cloud-junior-devops-engineer-internship</guid>
+      <pubDate>Mon, 12 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Globex: Senior Site Reliability Engineer</title>
+      <region>USA Only</region>
+      <category>DevOps and Sysadmin</category>
+      <type>Full-Time</type>
+      <description><![CDATA[<p>Lead our SRE practice. 10+ years with Prometheus, Grafana, observability.</p>]]></description>
+      <link>https://weworkremotely.com/remote-jobs/globex-senior-site-reliability-engineer</link>
+      <guid>https://weworkremotely.com/remote-jobs/globex-senior-site-reliability-engineer</guid>
+      <pubDate>Sun, 11 May 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Platform Engineer at Initech</title>
+      <region>Europe Only</region>
+      <category>DevOps and Sysadmin</category>
+      <type>Full-Time</type>
+      <description><![CDATA[<p>Work on our internal developer platform with ArgoCD, Helm and GitLab CI.</p>]]></description>
+      <link>https://weworkremotely.com/remote-jobs/initech-platform-engineer</link>
+      <guid>https://weworkremotely.com/remote-jobs/initech-platform-engineer</guid>
+      <pubDate>Sat, 10 May 2026 08:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
